@@ -2,7 +2,7 @@
 
 
 
- ### Conteúdos tratados nos notebooks:
+ #### Conteúdos tratados nos notebooks:
 
 
 
@@ -22,27 +22,16 @@
 
 
 
- ### Recursos utilizados:
-
-
+ #### Recursos utilizados:
 
 * Jupyter Notebook
-
-
 
 - Bibliotecas para visualização: Matplotlib e Seaborn.
 
 
-
-### Os datasets usados estão na pasta datasets
-
-
-
-### Os gráficos estão na pasta (imagens)
-
-
-
-### Os Arquivos criados estão na pasta de entrada principal
+##### Os datasets usados estão na pasta datasets
+##### Os gráficos estão na pasta (imagens)
+##### Os Arquivos criados estão na pasta de entrada principal
 
 
 
